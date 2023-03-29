@@ -661,7 +661,7 @@ while activation_bool_verbs == True:
 
 
     else:
-        print("Jacob programmed this, and do you think JACOB is able to conjugate a that difficult word in FRENCH???!!!")
+        print("Error")
 
 
 
